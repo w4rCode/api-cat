@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #efecff;
+}
+#botao{
+    width: 180px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #7066e0;
+    color: #ffff;
+    border: none;
+    letter-spacing: 1px;
+    font-weight: bolder;
+    font-size: 1.1rem;
+    cursor: pointer;}
